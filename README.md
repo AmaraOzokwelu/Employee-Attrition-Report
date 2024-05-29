@@ -9,54 +9,21 @@ This project was done to shed more light on the intricacies of the various cause
 I used Microsoft SQL server to answer the  following questions which can be considered key business questions that can give insight to the primary cause of Employee attrition in the organization.
 
 	
-*	What are the Key Performance Indicators and this includes the Total number of Employees, Number of active employees, no of in-active employees , Retention rate, average length of time an employee stays in the company , Number of male and Female workers.
+*	How is Attrition influenced by Overtime?
 
 
-*	How does the frequency of business travel impact attrition rates?
+*	How do the employees' marital status and their participation in overtime relate to attrition rates?
 
 
-*	What is the correlation between age and attrition?
+*	How does the income range of employees impact attrition?
 
 
-*	How is attrition influenced by gender?
-
-*	How is attrittion influenced by Departments?
-
-
-*	How does the intersection of age category and gender impact attrition rates?
-
-
-*	What are the attrition rates broken down by gender?
-
-
-*	Does the field of education have any discernible impact on attrition rates?
-
-
-*	In what ways do job roles affect attrition rates?
-
-
-*	How does overtime affect job roles in relation to attrition?
-
-
-*	How do marital status and overtime relate to attrition rates?
-
-
-*	Does the extent of employee training influence their likelihood of leaving the company?
-
-
-*	What is the correlation between overtime, job satisfaction, and attrition rates?
-
-
-*	How does job level correlate with attrition rates?
-
+*	How does the combination of income range and job role affect attrition rates?
 
 *	What is the association between job satisfaction and attrition rates?
 
 
-*	Is there a connection between education level and attrition rates?
-
-
-*	How does environmental satisfaction relate to attrition rates?
+*	How does job level influence attrition rates?
 
 
 *	What is the link between job involvement and attrition rates?
@@ -68,38 +35,10 @@ I used Microsoft SQL server to answer the  following questions which can be cons
 *	What is the correlation between job satisfaction and attrition rates?
 
 
-*	How does the income range of employees impact attrition?
+*	How is the attrition rate influenced by the departments?
 
 
-*	How does the combination of income range and job role affect attrition rates?
-
-
-*	Does the number of previous employers affect attrition rates?
-
-
-*	What is the relationship between attrition rates and tenure at the organization?
-
-
-*	How do work-life balance and attrition rates correlate?
-
-
-*	What is the connection between years in the current role and attrition rates?
-
-
-*	How does the duration since last promotion relate to attrition rates?
-
-
-*	What is the correlation between years with the current manager and attrition rates?
-
-#### DATA VISUALIZATION AND REPORTING
-
-I utilized Power BI to visually represent my findings on the HR dashboard, effectively illustrating the various factors contributing to attrition within the organization.
-
-![Employee Attrition Dashboard](images/Employee Attrition Dashboard.jpg)
-
-
-
-#### SQL SCRIPT FOR COMPLEX QUESTIONS:
+#### SQL SCRIPT FOR QUESTIONS:
 
 
 1.	How is Attrition influenced by OverTime?
